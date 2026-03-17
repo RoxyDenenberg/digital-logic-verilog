@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains Verilog designs and simulation testbenches written for Boston University's Digital Logic course. Labs cover combinational logic design, circuit implementation, and hardware simulation using testbenches.
+This repository contains Verilog designs and simulation testbenches written for ELEC2602: Digital Logic at the University of Sydney, taken as part of a semester exchange from Boston University. Labs cover combinational logic design, circuit implementation, and hardware simulation using testbenches.
 
 **Tools used:** Verilog (iVerilog), VS Code
 
@@ -17,4 +17,4 @@ This repository contains Verilog designs and simulation testbenches written for 
 
 ---
 
-* University of Sydney — ELEC2602: Digital Logic, Spring 2026*
+*University of Sydney — ELEC2602: Digital Logic, Spring 2026*
