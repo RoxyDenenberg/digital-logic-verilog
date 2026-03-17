@@ -1,5 +1,5 @@
 # Digital Logic — Verilog Labs
-**Verilog implementations and testbenches from Digital Logic coursework at Boston University**
+**Verilog implementations and testbenches from ELEC2602: Digital Logic at University of Sydney**
 
 ---
 
@@ -17,4 +17,4 @@ This repository contains Verilog designs and simulation testbenches written for 
 
 ---
 
-*Boston University — Digital Logic, 2024–2025*
+* University of Sydney — ELEC2602: Digital Logic, Spring 2026*
